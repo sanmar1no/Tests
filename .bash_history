@@ -58,3 +58,11 @@ git pull
 git add .
 git commit -m "New comment"
 git push -u origin master
+git pull
+git add .
+git commit -m "New comment2"
+git push -u origin master
+git clone https://github.com/sanmar1no/Tests.git
+git clone https://github.com/sanmar1no/Tests.git
+git branch MyBranch
+git checkout MyBranch
