@@ -45,3 +45,16 @@ git status
 git pull
 git status
 git push -u origin master
+git config --global user.name "sanmar1no"
+git config --global user.email sanmar1no@mail.ru
+git init
+git add .
+git commit -m "First commit"
+git remote add origin https://github.com/sanmar1no/Tests.git
+git remote
+git branch -M master
+git push -u origin master
+git pull
+git add .
+git commit -m "New comment"
+git push -u origin master
