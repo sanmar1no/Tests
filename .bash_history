@@ -66,3 +66,19 @@ git clone https://github.com/sanmar1no/Tests.git
 git clone https://github.com/sanmar1no/Tests.git
 git branch MyBranch
 git checkout MyBranch
+git pull
+git pull origin MyBranch
+git remote
+git add .
+git commit -m "New comment3"
+git push -u origin MyBranch
+git pull
+git branch master
+git checkout master
+git add .
+git commit -m "New comment4"
+git push -u origin master
+git checkout MyBranch
+git branch newchanges
+git checkout newchanges
+git pull
