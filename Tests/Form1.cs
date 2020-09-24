@@ -18,6 +18,7 @@ namespace Tests
         {
             InitializeComponent();
         }
+        //"New comment7 commit9"
         //3
         //public readonly static int test = 10;
         //public const int test_const = 20;
