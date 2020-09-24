@@ -18,6 +18,7 @@ namespace Tests
         {
             InitializeComponent();
         }
+        //
         //public readonly static int test = 10;
         //public const int test_const = 20;
         private void button1_Click(object sender, EventArgs e)
