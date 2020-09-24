@@ -31,7 +31,7 @@ namespace Tests
             label1.Text = Eleven.GetValue(key.KeyInteger());
             button1.Text = Eleven.GetValue(key.KeyString());
         }
-        
+        //пятый коммит
     }
 
 }
